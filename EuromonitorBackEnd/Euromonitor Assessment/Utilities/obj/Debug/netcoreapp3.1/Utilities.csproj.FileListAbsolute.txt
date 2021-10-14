@@ -1,0 +1,15 @@
+C:\Users\X461581\source\repos\BET Assessment\Utilities\bin\Debug\netcoreapp3.1\Utilities.deps.json
+C:\Users\X461581\source\repos\BET Assessment\Utilities\bin\Debug\netcoreapp3.1\Utilities.dll
+C:\Users\X461581\source\repos\BET Assessment\Utilities\bin\Debug\netcoreapp3.1\Utilities.pdb
+C:\Users\X461581\source\repos\BET Assessment\Utilities\bin\Debug\netcoreapp3.1\EcommerceRepository.dll
+C:\Users\X461581\source\repos\BET Assessment\Utilities\bin\Debug\netcoreapp3.1\ViewModels.dll
+C:\Users\X461581\source\repos\BET Assessment\Utilities\bin\Debug\netcoreapp3.1\EcommerceRepository.pdb
+C:\Users\X461581\source\repos\BET Assessment\Utilities\bin\Debug\netcoreapp3.1\ViewModels.pdb
+C:\Users\X461581\source\repos\BET Assessment\Utilities\obj\Debug\netcoreapp3.1\Utilities.csproj.AssemblyReference.cache
+C:\Users\X461581\source\repos\BET Assessment\Utilities\obj\Debug\netcoreapp3.1\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X461581\source\repos\BET Assessment\Utilities\obj\Debug\netcoreapp3.1\Utilities.AssemblyInfoInputs.cache
+C:\Users\X461581\source\repos\BET Assessment\Utilities\obj\Debug\netcoreapp3.1\Utilities.AssemblyInfo.cs
+C:\Users\X461581\source\repos\BET Assessment\Utilities\obj\Debug\netcoreapp3.1\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\X461581\source\repos\BET Assessment\Utilities\obj\Debug\netcoreapp3.1\Utilities.dll
+C:\Users\X461581\source\repos\BET Assessment\Utilities\obj\Debug\netcoreapp3.1\Utilities.pdb
+C:\Users\X461581\source\repos\BET Assessment\Utilities\obj\Debug\netcoreapp3.1\Utilities.csproj.CopyComplete

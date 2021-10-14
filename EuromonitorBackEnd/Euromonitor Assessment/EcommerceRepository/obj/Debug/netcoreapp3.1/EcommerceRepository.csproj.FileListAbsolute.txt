@@ -1,0 +1,13 @@
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\bin\Debug\netcoreapp3.1\EcommerceRepository.deps.json
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\bin\Debug\netcoreapp3.1\EcommerceRepository.runtimeconfig.json
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\bin\Debug\netcoreapp3.1\EcommerceRepository.runtimeconfig.dev.json
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\bin\Debug\netcoreapp3.1\EcommerceRepository.dll
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\bin\Debug\netcoreapp3.1\EcommerceRepository.pdb
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\obj\Debug\netcoreapp3.1\EcommerceRepository.csproj.AssemblyReference.cache
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\obj\Debug\netcoreapp3.1\EcommerceRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\obj\Debug\netcoreapp3.1\EcommerceRepository.AssemblyInfoInputs.cache
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\obj\Debug\netcoreapp3.1\EcommerceRepository.AssemblyInfo.cs
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\obj\Debug\netcoreapp3.1\EcommerceRepository.csproj.CoreCompileInputs.cache
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\obj\Debug\netcoreapp3.1\EcommerceRepository.dll
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\obj\Debug\netcoreapp3.1\EcommerceRepository.pdb
+C:\Users\X461581\source\repos\BET Assessment\EcommerceRepository\obj\Debug\netcoreapp3.1\EcommerceRepository.genruntimeconfig.cache

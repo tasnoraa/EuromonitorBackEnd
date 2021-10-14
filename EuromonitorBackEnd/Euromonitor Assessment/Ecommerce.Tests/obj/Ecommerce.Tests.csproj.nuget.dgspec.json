@@ -1,0 +1,375 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Ecommerce.Tests\\Ecommerce.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Ecommerce.Tests\\Ecommerce.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Ecommerce.Tests\\Ecommerce.Tests.csproj",
+        "projectName": "Ecommerce.Tests",
+        "projectPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Ecommerce.Tests\\Ecommerce.Tests.csproj",
+        "packagesPath": "C:\\Users\\X461581\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Ecommerce.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\X461581\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\X461581\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\EcommerceRepository\\EcommerceRepository.csproj": {
+                "projectPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\EcommerceRepository\\EcommerceRepository.csproj"
+              },
+              "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Ecommerce\\Ecommerce.csproj": {
+                "projectPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Ecommerce\\Ecommerce.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\EcommerceRepository\\EcommerceRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\EcommerceRepository\\EcommerceRepository.csproj",
+        "projectName": "EcommerceRepository",
+        "projectPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\EcommerceRepository\\EcommerceRepository.csproj",
+        "packagesPath": "C:\\Users\\X461581\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\EcommerceRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\X461581\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\X461581\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFrameworkCoreMock.Moq": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Ecommerce\\Ecommerce.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Ecommerce\\Ecommerce.csproj",
+        "projectName": "Ecommerce",
+        "projectPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Ecommerce\\Ecommerce.csproj",
+        "packagesPath": "C:\\Users\\X461581\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Ecommerce\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\X461581\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\X461581\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Utilities\\Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Utilities\\Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Utilities\\Utilities.csproj",
+        "projectName": "Utilities",
+        "projectPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Utilities\\Utilities.csproj",
+        "packagesPath": "C:\\Users\\X461581\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\X461581\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\X461581\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\EcommerceRepository\\EcommerceRepository.csproj": {
+                "projectPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\EcommerceRepository\\EcommerceRepository.csproj"
+              },
+              "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\ViewModels\\ViewModels.csproj": {
+                "projectPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\ViewModels\\ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\ViewModels\\ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\ViewModels\\ViewModels.csproj",
+        "projectName": "ViewModels",
+        "projectPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\ViewModels\\ViewModels.csproj",
+        "packagesPath": "C:\\Users\\X461581\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\X461581\\Documents\\01 Assessment Euromonitor\\EuromonitorBackEnd\\Euromonitor Assessment\\ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\X461581\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\X461581\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
